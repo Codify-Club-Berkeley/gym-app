@@ -2,6 +2,6 @@
 
 To run:
 
-cd frontend
-yarn
+cd frontend,
+yarn,
 yarn dev
