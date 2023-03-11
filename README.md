@@ -1,7 +1,7 @@
 # Gym Planner App
 
-To run: ">" indicates a terminal command
+To run:
 
->cd frontend
->yarn
->yarn dev
+cd frontend
+yarn
+yarn dev
